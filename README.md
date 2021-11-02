@@ -26,5 +26,7 @@ Step 8:Promote and Marketing
 ## Hardware /Software tools / Platform used to implement the app
 
 Hardware: Laptops, handphone
+
 Software :Browsers 
+
 Platform: MIT app inventor
